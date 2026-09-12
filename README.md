@@ -3,7 +3,7 @@
 ## Full Project Goals
 ![Data Engineering Platform](./Documents/fullLab.png)
 
-## Data Enegineering and Platform Engineering Laboratory Plan
+## Data Engineering and Platform Engineering Laboratory Plan
 
 ![Data Engineering Platform](./Documents/DELabPlan.png)
 
