@@ -1,7 +1,13 @@
 # DE_Portfolio
-![Data Engineering Platform](./Documents/DELabPlan.png)
+
+## Full Project Goals
 ![Data Engineering Platform](./Documents/fullLab.png)
-## Overview
+
+## Data Enegineering and Platform Engineering Laboratory Plan
+
+![Data Engineering Platform](./Documents/DELabPlan.png)
+
+## Portfolio Overview
 
 The goal of this project is to build a practical **Data Engineering and Platform Engineering laboratory** that evolves in stages rather than as a collection of unrelated tutorials.
 
