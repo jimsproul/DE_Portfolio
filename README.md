@@ -1,5 +1,5 @@
 # DE_Portfolio
-
+![Data Engineering Platform](./Documents/DELabPlan.png)
 ## Overview
 
 The goal of this project is to build a practical **Data Engineering and Platform Engineering laboratory** that evolves in stages rather than as a collection of unrelated tutorials.
