@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-
-# A recommended directory structure for the **Data Platform Lab** is:
-=======
 ## Data Platform Lab Directory Structure
 
 A recommended directory structure for the **Data Platform Lab** is:
->>>>>>> 0aa2e21 (data-platform-lab new README.md)
 
 ```text
 ~/data-platform-lab/
@@ -71,6 +66,3 @@ This structure provides a clear separation of concerns across the major componen
 <<<<<<< HEAD
 > **Portfolio Value:** The repository itself becomes part of the portfolio project. It demonstrates not only individual technologies, but how ingestion, storage, transformation, orchestration, distributed processing, CI/CD, containerization, and Kubernetes fit together as a cohesive data engineering platform.
 ````
-=======
-> **Portfolio Value:** The repository itself becomes part of the portfolio project. It demonstrates not only individual technologies, but how ingestion, storage, transformation, orchestration, distributed processing, CI/CD, containerization, and Kubernetes fit together as a cohesive data engineering platform.
->>>>>>> 0aa2e21 (data-platform-lab new README.md)
