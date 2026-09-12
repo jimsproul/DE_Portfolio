@@ -1,6 +1,4 @@
-````markdown
 ## Northwind Relational Data Model
-
 ![Data Engineering Platform](./northWindRelationalModel.png)
 
 ### Overview
