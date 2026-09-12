@@ -16,7 +16,7 @@ PostgreSQL runs inside Docker rather than being permanently installed as a host 
 
 Python performs ingestion and transformation while PostgreSQL initially serves as both the operational data source and analytical warehouse.
 
-##Primary Tools
+## Primary Tools
 - Python
 - PostgreSQL
 - Docker
