@@ -1,6 +1,5 @@
 
-````markdown
-A recommended directory structure for the **Data Platform Lab** is:
+# A recommended directory structure for the **Data Platform Lab** is:
 
 ```text
 ~/data-platform-lab/
