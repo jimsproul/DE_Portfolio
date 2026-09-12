@@ -787,4 +787,4 @@ fit together as a single engineering system.
 
 > **One project. One evolving platform. Multiple technologies. Real engineering.**
 
-A useful next improvement would be adding a **repository structure, architecture diagram link, prerequisites, setup commands, and progress checklist** so the README can serve as both project documentation and your actual learning roadmap.
+TODO A useful next improvement would be adding a **repository structure, architecture diagram link, prerequisites, setup commands, and progress checklist** so the README can serve as both project documentation and your actual learning roadmap.
