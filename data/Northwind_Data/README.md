@@ -1,2 +1,4 @@
 # Northwind Data
- ![(northWindDimensionalModel.png)]
+ ![Relational Model](northWindRelationalModel.png)
+
+  ![Dimensional Model](northWindDimensionalModel.png)
