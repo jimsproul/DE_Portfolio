@@ -46,10 +46,11 @@ For the first implementation, a single PostgreSQL container can contain separate
 
 The following assumes Ubuntu Linux.
 
-In the DE_Portfolio folder create a **"Playground"** folder then change to that folder
+In the DE_Portfolio folder create a **"Playground"** folder, cover in the provided README file then change to that folder
 
 ```bash
 mkdir Playground
+cp Playground_README.md ./Playground
 cd Playground
 ```
 
