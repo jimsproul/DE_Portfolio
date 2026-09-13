@@ -1,6 +1,6 @@
 # About the Northwind Data
 
-Using this data **use the Northwind database as a learning dataset** as a leanring tool only.
+We are **useing the Northwind database files as a learning dataset** only.
 
 Microsoft created Northwind as a fictitious trading company and sample database for teaching database design and development. Microsoft still distributes Northwind examples, including the current Northwind 2.0 Access templates, and describes them explicitly as learning/sample databases. 
 
