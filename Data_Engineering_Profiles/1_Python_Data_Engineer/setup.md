@@ -140,8 +140,8 @@ git config --global core.editor "code --wait"
 Create a dedicated project:
 
 ```bash
-mkdir -p ~/data-platform-lab/python-data-engineer
-cd ~/data-platform-lab/python-data-engineer
+mkdir python-data-engineer
+cd python-data-engineer
 ```
 
 Initialize Git:
@@ -183,7 +183,7 @@ touch src/database/__init__.py
 The project should now resemble:
 
 ```text
-python-data-engineer/
+/Playground/python-data-engineer/
 ├── README.md
 ├── docker-compose.yml
 ├── requirements.txt
@@ -241,11 +241,15 @@ pip3 --version
 
 Do not install project Python packages globally.
 
-Instead, create a virtual environment:
+Instead, create a virtual environment, verify you are in the right place
 
 ```bash
-cd ~/data-platform-lab/python-data-engineer
+PWD 
+```
+If .../Playground/python-data-engineer is the current working directory,
+then create the virtual environment:
 
+```bash
 python3 -m venv .venv
 ```
 
