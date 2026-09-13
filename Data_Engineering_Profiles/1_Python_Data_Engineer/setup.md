@@ -50,7 +50,7 @@ In the DE_Portfolio folder create a **"Playground"** folder, cover in the provid
 
 ```bash
 mkdir Playground
-cp Playground_README.md ./Playground
+cp Playground_README.md ./Playground/README.md
 cd Playground
 ```
 
