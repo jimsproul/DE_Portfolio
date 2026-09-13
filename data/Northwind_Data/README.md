@@ -1,1 +1,2 @@
 # Northwind Data
+ ![(northWindDimensionalModel.png)]
