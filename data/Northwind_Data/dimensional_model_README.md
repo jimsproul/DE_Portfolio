@@ -1,7 +1,6 @@
-Here is a GitHub README-ready Markdown section:
+## Northwind Dimensional Data Model
+![Data Engineering Platform](./northWindDimensionalModel.png)
 
-````markdown
-## Dimensional Data Model
 
 ### Overview
 
