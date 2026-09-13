@@ -20,3 +20,5 @@ Python performs ingestion and transformation while PostgreSQL initially serves a
 - Python
 - PostgreSQL
 - Docker
+
+## Begin by reading the setup.md file located in this folder
