@@ -11,3 +11,5 @@
 | **Orchestration Engineer** | Airflow, Python, PostgreSQL | DAGs, scheduling, dependencies |
 | **Rust Data/Systems Engineer** | Rust, Cargo, PostgreSQL | Fast services, parsers, CLI utilities |
 | **Data Platform Engineer** | All of the above | End-to-end platform integration |
+
+![Data Platform Lab Architecture](Profiles.png)
