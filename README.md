@@ -1,5 +1,7 @@
 # DE_Portfolio
 
+***WARNING*** This repo is still underdevelopment. New releases to the main branch may happen without notice.
+
 ## Full Project Goals
 ![Data Engineering Platform](./Documents/fullLab.png)
 
