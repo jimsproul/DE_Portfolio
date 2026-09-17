@@ -1,6 +1,7 @@
 # Learn Python
 
-Setup a repo in the "Playground" for your Python learning. Remember the Playground is ignored from the DE Portfolio repo. See [setup README](setup.md) 
+Setup a repo in the "Playground" for your Python learning. Remember the Playground is ignored from the DE Portfolio repo. See [setup README](setup.md)  Keep all your learning files, handouts and cheatsheet available in that repo.
+
 
 Honestly evaluate your skills and do what it takes to get on top of your **Python Game!**
 
