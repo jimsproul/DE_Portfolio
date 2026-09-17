@@ -49,6 +49,7 @@ The following assumes Ubuntu Linux.
 In the DE_Portfolio folder create a **"Playground"** folder, cover in the provided README file then change to that folder
 
 ```bash
+cd DE_Portfolio
 mkdir Playground
 cp Playground_README.md ./Playground/README.md
 cd Playground
