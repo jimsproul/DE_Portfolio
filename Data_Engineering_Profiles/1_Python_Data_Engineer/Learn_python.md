@@ -21,4 +21,4 @@ Experienced with Python but has not used all the latest features? I recommend yo
 ## Indepth Python and Tools fopr Data Engineering
 Master foundational strategies and tools to become proficient in developing data engineering and machine learning.
 
-[Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
+- [Python, Bash and SQL Essentials for Data Engineering](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
